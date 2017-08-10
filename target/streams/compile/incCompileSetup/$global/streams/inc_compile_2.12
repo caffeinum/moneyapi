@@ -1,0 +1,288 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/target/scala-2.12/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.1
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+10 items
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> /mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/target/scala-2.12/classes/com/caffeinum/moneyapi/Main$.class
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> /mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/target/scala-2.12/classes/com/caffeinum/moneyapi/Main.class
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> /mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/target/scala-2.12/classes/com/caffeinum/moneyapi/Transfer$.class
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> /mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/target/scala-2.12/classes/com/caffeinum/moneyapi/Transfer.class
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> /mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/target/scala-2.12/classes/com/caffeinum/moneyapi/User$.class
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> /mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/target/scala-2.12/classes/com/caffeinum/moneyapi/User.class
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/example/Hello.scala -> /mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/target/scala-2.12/classes/example/Greeting.class
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/example/Hello.scala -> /mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/target/scala-2.12/classes/example/Hello$.class
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/example/Hello.scala -> /mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/target/scala-2.12/classes/example/Hello$delayedInit$body.class
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/example/Hello.scala -> /mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/target/scala-2.12/classes/example/Hello.class
+binary dependencies:
+14 items
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> /home/caffeinum/.ivy2/cache/com.chuusai/shapeless_2.12/bundles/shapeless_2.12-2.3.2.jar
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> /home/caffeinum/.ivy2/cache/com.github.finagle/finch-core_2.12/jars/finch-core_2.12-0.16.0-M1.jar
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> /home/caffeinum/.ivy2/cache/com.twitter/finagle-base-http_2.12/jars/finagle-base-http_2.12-6.45.0.jar
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> /home/caffeinum/.ivy2/cache/com.twitter/finagle-core_2.12/jars/finagle-core_2.12-6.45.0.jar
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> /home/caffeinum/.ivy2/cache/com.twitter/finagle-http_2.12/jars/finagle-http_2.12-6.45.0.jar
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> /home/caffeinum/.ivy2/cache/com.twitter/twitter-server_2.12/jars/twitter-server_2.12-1.30.0.jar
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> /home/caffeinum/.ivy2/cache/com.twitter/util-app_2.12/jars/util-app_2.12-6.45.0.jar
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> /home/caffeinum/.ivy2/cache/com.twitter/util-core_2.12/jars/util-core_2.12-6.45.0.jar
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> /home/caffeinum/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> /home/caffeinum/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/example/Hello.scala -> /home/caffeinum/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/example/Hello.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+10 items
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> com.caffeinum.moneyapi.Main
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> com.caffeinum.moneyapi.Main$
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> com.caffeinum.moneyapi.Transfer
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> com.caffeinum.moneyapi.Transfer$
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> com.caffeinum.moneyapi.User
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> com.caffeinum.moneyapi.User$
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/example/Hello.scala -> example.Greeting
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/example/Hello.scala -> example.Hello
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/example/Hello.scala -> example.Hello$
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/example/Hello.scala -> example.Hello$delayedInit$body
+used names:
+144 items
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> <byname>
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> <init>
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> <refinement>
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> A
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> Any
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> Aux
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> Await
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> Awaitable
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> CT
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> Encode
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> Endpoint
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> EndpointMapper
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> Exception
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> Future
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> HNil
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> Http
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> Int
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> ListeningServer
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> Main
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> Mapper
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> Nothing
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> Object
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> Ok
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> Out
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> Output
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> Plain
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> Predef
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> Request
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> Response
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> Server
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> ServerAdmissionControlParams
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> Service
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> Stats
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> String
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> T
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> T0
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> Text
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> ToResponse
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> TwitterServer
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> Unit
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> Witness
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> _$1
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> adminHttpServer
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> apply
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> caffeinum
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> close
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> com
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> concurrencyLimit
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> encodeExceptionAsTextPlain
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> encodeStringAsTextPlain
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> finagle
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> finch
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> get
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> http
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> io
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> mapperFromOutputValue
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> mkWitness
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> moneyapi
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> onExit
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> package
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> param
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> ping
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> ready
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> scala
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> serve
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> server
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> service
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> shapeless
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> stringToPath
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> syntax
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> toServiceAs
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> twitter
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> util
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> valueToResponse
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> withAdmissionControl
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> &&
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> <init>
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> ==
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> A
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> AbstractFunction2
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> AbstractFunction4
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> Any
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> AnyRef
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> Boolean
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> IndexOutOfBoundsException
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> Int
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> Iterator
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> None
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> Nothing
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> Object
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> Option
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> Predef
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> Product
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> ScalaRunTime
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> Serializable
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> Some
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> Statics
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> String
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> T
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> T0
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> T1
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> T2
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> T3
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> T4
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> Transfer
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> Tuple2
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> Tuple4
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> User
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> _root_
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> _toString
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> amount
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> anyHash
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> asInstanceOf
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> caffeinum
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> com
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> eq
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> finalizeHash
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> id
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> isInstanceOf
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> mix
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> moneyapi
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> package
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> recipient
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> runtime
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> scala
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> sender
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> toString
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> typedProductIterator
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> username
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> ||
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/example/Hello.scala -> <init>
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/example/Hello.scala -> Any
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/example/Hello.scala -> AnyRef
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/example/Hello.scala -> App
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/example/Hello.scala -> Greeting
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/example/Hello.scala -> Hello
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/example/Hello.scala -> Object
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/example/Hello.scala -> Predef
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/example/Hello.scala -> String
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/example/Hello.scala -> Unit
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/example/Hello.scala -> example
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/example/Hello.scala -> greeting
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/example/Hello.scala -> println
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/example/Hello.scala -> scala
+product stamps:
+10 items
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/target/scala-2.12/classes/com/caffeinum/moneyapi/Main$.class -> lastModified(1502396410000)
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/target/scala-2.12/classes/com/caffeinum/moneyapi/Main.class -> lastModified(1502396410000)
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/target/scala-2.12/classes/com/caffeinum/moneyapi/Transfer$.class -> lastModified(1502395842000)
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/target/scala-2.12/classes/com/caffeinum/moneyapi/Transfer.class -> lastModified(1502395842000)
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/target/scala-2.12/classes/com/caffeinum/moneyapi/User$.class -> lastModified(1502395842000)
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/target/scala-2.12/classes/com/caffeinum/moneyapi/User.class -> lastModified(1502395842000)
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/target/scala-2.12/classes/example/Greeting.class -> lastModified(1502395842000)
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/target/scala-2.12/classes/example/Hello$.class -> lastModified(1502395842000)
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/target/scala-2.12/classes/example/Hello$delayedInit$body.class -> lastModified(1502395842000)
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/target/scala-2.12/classes/example/Hello.class -> lastModified(1502395842000)
+source stamps:
+3 items
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> hash(c7222d77d86a10c6c9b20e1bae12def19599ede1)
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> hash(e6eebee676968ca0aadf393235181b7463205b91)
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/example/Hello.scala -> hash(1bd0a0f42395d0ddc58317d989d9bc92660e66c6)
+binary stamps:
+10 items
+/home/caffeinum/.ivy2/cache/com.chuusai/shapeless_2.12/bundles/shapeless_2.12-2.3.2.jar -> lastModified(1478080252000)
+/home/caffeinum/.ivy2/cache/com.github.finagle/finch-core_2.12/jars/finch-core_2.12-0.16.0-M1.jar -> lastModified(1497577702000)
+/home/caffeinum/.ivy2/cache/com.twitter/finagle-base-http_2.12/jars/finagle-base-http_2.12-6.45.0.jar -> lastModified(1497029566000)
+/home/caffeinum/.ivy2/cache/com.twitter/finagle-core_2.12/jars/finagle-core_2.12-6.45.0.jar -> lastModified(1497029586000)
+/home/caffeinum/.ivy2/cache/com.twitter/finagle-http_2.12/jars/finagle-http_2.12-6.45.0.jar -> lastModified(1497029608000)
+/home/caffeinum/.ivy2/cache/com.twitter/twitter-server_2.12/jars/twitter-server_2.12-1.30.0.jar -> lastModified(1497032875000)
+/home/caffeinum/.ivy2/cache/com.twitter/util-app_2.12/jars/util-app_2.12-6.45.0.jar -> lastModified(1496971855000)
+/home/caffeinum/.ivy2/cache/com.twitter/util-core_2.12/jars/util-core_2.12-6.45.0.jar -> lastModified(1496971796000)
+/home/caffeinum/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar -> lastModified(1480936165000)
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1501205457000)
+class names:
+10 items
+/home/caffeinum/.ivy2/cache/com.chuusai/shapeless_2.12/bundles/shapeless_2.12-2.3.2.jar -> shapeless.HNil
+/home/caffeinum/.ivy2/cache/com.github.finagle/finch-core_2.12/jars/finch-core_2.12-0.16.0-M1.jar -> io.finch.endpoint.Paths
+/home/caffeinum/.ivy2/cache/com.twitter/finagle-base-http_2.12/jars/finagle-base-http_2.12-6.45.0.jar -> com.twitter.finagle.http.Response
+/home/caffeinum/.ivy2/cache/com.twitter/finagle-core_2.12/jars/finagle-core_2.12-6.45.0.jar -> com.twitter.finagle.Service$
+/home/caffeinum/.ivy2/cache/com.twitter/finagle-http_2.12/jars/finagle-http_2.12-6.45.0.jar -> com.twitter.finagle.Http
+/home/caffeinum/.ivy2/cache/com.twitter/twitter-server_2.12/jars/twitter-server_2.12-1.30.0.jar -> com.twitter.server.TwitterServer
+/home/caffeinum/.ivy2/cache/com.twitter/util-app_2.12/jars/util-app_2.12-6.45.0.jar -> com.twitter.app.App
+/home/caffeinum/.ivy2/cache/com.twitter/util-core_2.12/jars/util-core_2.12-6.45.0.jar -> com.twitter.util.Future
+/home/caffeinum/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar -> scala.Unit
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+3 items
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwk761hwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAABMc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwEMjVjnQAD2FkbWluSHR0cFNlcnZlcnNxAH4ADI5oQ7d0AAZub3RpZnlzcQB+AAyKirTmdAAQZGVmYXVsdEZvcm1hdHRlcnNxAH4ADLpFT7J0AARuYW1lc3EAfgAMlAFqz3QABHdhaXRzcQB+AAwzL6aYdAANJGFzSW5zdGFuY2VPZnNxAH4ADLr4a3t0AAtsaWJyYXJ5TmFtZXNxAH4ADPYeL1B0AAZyb3V0ZXNzcQB+AAwVG0yDdAAJbGV2ZWxGbGFnc3EAfgAMqTfzV3QABmVxdWFsc3NxAH4ADB0hPkx0AAphcHBlbmRGbGFnc3EAfgAMEhWT4nQAD3JlZ2lzdGVyTGludGVyc3NxAH4ADMWrisB0ABNpbmZlckNsYXNzTmFtZXNGbGFnc3EAfgAMr6YGeXQADm5vbkV4aXRpbmdNYWluc3EAfgAMHwqwq3QACE1pbkdyYWNlc3EAfgAMW4kA0nQADGFzSW5zdGFuY2VPZnNxAH4ADKvzPRR0AAVyZWFkeXNxAH4ADEyMAIN0AAZyZXN1bHRzcQB+AAxhrqqqdAAMc3luY2hyb25pemVkc3EAfgAMSoNz9HQADSRpc0luc3RhbmNlT2ZzcQB+AAxjI2DJdAANc2h1dGRvd25UaW1lcnNxAH4ADL/6HZd0ABhjb25maWd1cmVMb2dnZXJGYWN0b3JpZXNzcQB+AAzg6OPFdAALY2xvc2VPbkV4aXRzcQB+AAyZtQybdAANc3RhdHNSZWNlaXZlcnNxAH4ADIdOlM10AARtYWluc3EAfgAMidpWHnQAD2RlZmF1bHRIdHRwUG9ydHNxAH4ADPhRs/J0AAhoYW5kbGVyc3NxAH4ADCuv7QZ0ABhjb25maWd1cmVBZG1pbkh0dHBTZXJ2ZXJzcQB+AAxn6KPQdAAHc2VydmljZXNxAH4ADEVagtF0AA1hZGRBZG1pblJvdXRlc3EAfgAM4AUbyHQACW5vdGlmeUFsbHNxAH4ADEUblch0AA1kZWZhdWx0T3V0cHV0c3EAfgAMkQZ7AnQAB2lzUmVhZHlzcQB+AAxOxVsMdAAGb25FeGl0c3EAfgAMLiGMPnQAE2FsbG93VW5kZWZpbmVkRmxhZ3NzcQB+AAyZHKLidAARZGVmYXVsdFJvbGxQb2xpY3lzcQB+AAyFa08hdAAMaXNJbnN0YW5jZU9mc3EAfgAMjAq9s3QAEWFkbWluQm91bmRBZGRyZXNzc3EAfgAMkoha3XQAEmRlZmF1bHRSb3RhdGVDb3VudHNxAH4ADEViadJ0AA5hZGRBZG1pblJvdXRlc3NxAH4ADHvxkZp0AARwaW5nc3EAfgAM2pflZnQAD2xvZ2dlckZhY3Rvcmllc3NxAH4ADGqao0B0AApvdXRwdXRGbGFnc3EAfgAM20tsRXQAD2RlZmF1bHRMb2dMZXZlbHNxAH4ADCbHhDN0AA5jbG9zZUF3YWl0YWJseXNxAH4ADPr1bYp0AAI9PXNxAH4ADN+Cpbx0AAtsaW50ZXJSdWxlc3NxAH4ADFyMSxN0ABBhc3luY01heFNpemVGbGFnc3EAfgAMOZItWXQABWNsb25lc3EAfgAMwzLkRHQACWFkbWluUG9ydHNxAH4ADH7vyNZ0AAYkaW5pdCRzcQB+AAyCgLGRdAALZXhpdE9uRXJyb3JzcQB+AAxdNo/7dAAJYXN5bmNGbGFnc3EAfgAMelNtIHQABGZsYWdzcQB+AAx+QHv5dAAIcG9zdG1haW5zcQB+AAw+pL6/dAAPY2xvc2VPbkV4aXRMYXN0c3EAfgAMdYhR1HQABE1haW5zcQB+AAwUIEUwdAAIdG9TdHJpbmdzcQB+AAwHie40dAAEYXJnc3NxAH4ADPRfZEZ0AA5yb2xsUG9saWN5RmxhZ3NxAH4ADODLm5N0AAIhPXNxAH4ADPLgwIl0AAhnZXRDbGFzc3NxAH4ADAHcEk90AAVjbG9zZXNxAH4ADFIQMft0ABhmYWlsZmFzdE9uRmxhZ3NOb3RQYXJzZWRzcQB+AAzFmkjIdAACbmVzcQB+AAzUenzzdAANZGVmYXVsdEFwcGVuZHNxAH4ADFizi7V0AARpbml0c3EAfgAMck8y2HQABWdyb3Vwc3EAfgAMQInS73QAF2RlZmF1bHRDbG9zZUdyYWNlUGVyaW9kc3EAfgAMlcZSCnQAAmVxc3EAfgAMNLa4fHQAA2xvZ3NxAH4ADEixZM10AAIjI3NxAH4ADKSqoVd0AAhmaW5hbGl6ZXNxAH4ADBdhbRZ0AAhoYXNoQ29kZXNxAH4ADF98jOx0AA9yb3RhdGVDb3VudEZsYWdzcQB+AAyEQ0i/dAAHcHJlbWFpbnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AK94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABtjb20uY2FmZmVpbnVtLm1vbmV5YXBpLk1haW51cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AMdzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Ar0wACWluaGVyaXRlZHEAfgCvTAAHcGFyZW50c3EAfgCveHEAfgDMc3EAfgDHdXEAfgCqAAAAAHNxAH4Ax3VxAH4AqgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AsHEAfgC5dXEAfgC6AAAAAHNxAH4AvARxAH4AP3VxAH4AvwAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgDLdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ay3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4A6XVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+ANZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AMJ0AAVQbGFpbnEAfgCDc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgDdWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgDLc3EAfgDcdAAFQXJyYXlxAH4A4nVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgDcdAAGU3RyaW5nc3EAfgDgc3EAfgDjdXEAfgDmAAAAA3NxAH4A6HQABGphdmFzcQB+AOh0AARsYW5ncQB+AO1zcQB+AMd1cQB+AQAAAAARc3EAfgDcdAANVHdpdHRlclNlcnZlcnNxAH4A4HNxAH4A43VxAH4A5gAAAARzcQB+AOh0AANjb21zcQB+AOh0AAd0d2l0dGVyc3EAfgDodAAGc2VydmVycQB+AO1zcQB+ANx0AAVTdGF0c3EAfgEPc3EAfgDcdAAJTGlmZWN5Y2xlcQB+AQ9zcQB+ANx0AAVBZG1pbnEAfgEPc3EAfgDcdAAPQWRtaW5IdHRwU2VydmVycQB+AQ9zcQB+ANx0AAVIb29rc3EAfgEPc3EAfgDcdAAJTG9nRm9ybWF0cQB+AQ9zcQB+ANx0AAlFdmVudFNpbmtxAH4BD3NxAH4A3HQAB0xvZ2dpbmdzcQB+AOBzcQB+AON1cQB+AOYAAAAEc3EAfgDodAADY29tc3EAfgDodAAHdHdpdHRlcnNxAH4A6HQAB2xvZ2dpbmdxAH4A7XNxAH4A3HQAB0xpbnRlcnNxAH4BD3NxAH4A3HQAA0FwcHNxAH4A4HNxAH4A43VxAH4A5gAAAARzcQB+AOh0AANjb21zcQB+AOh0AAd0d2l0dGVyc3EAfgDodAADYXBwcQB+AO1zcQB+ANx0AA5DbG9zZUF3YWl0YWJseXNxAH4A4HNxAH4A43VxAH4A5gAAAARzcQB+AOh0AANjb21zcQB+AOh0AAd0d2l0dGVyc3EAfgDodAAEdXRpbHEAfgDtc3EAfgD7c3EAfgDcdAAPQ2xvc2VBd2FpdGFibHkwcQB+AUB1cQB+AQAAAAABcQB+AN5zcQB+APtzcQB+ANx0AAlBd2FpdGFibGVxAH4BQHVxAH4BAAAAAAFxAH4A3nNxAH4A3HQACENsb3NhYmxlcQB+AUBzcQB+ANx0AAZPYmplY3RxAH4BBHNxAH4A3HQAA0FueXEAfgDidXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAANzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAWY29tLmNhZmZlaW51bS5tb25leWFwaXNxAH4BWXQADWNvbS5jYWZmZWludW1zcQB+AVl0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV3NzcpIdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAUS9tbnQvYy9Vc2Vycy9jYWZmZWludW0vRGVza3RvcC9zY2FsYS9tb25leS10cmFuc2Zlci1hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFMciLXfYahDGybIOG64S3vGVme3h
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw1IVNaQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAmc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwyuNWXHQACXJlY2lwaWVudHNxAH4ADJxY9I10AAZub3RpZnlzcQB+AAzelU3edAAEd2FpdHNxAH4ADKmv7oN0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADAn87Dt0AA0kYXNJbnN0YW5jZU9mc3EAfgAMEcY/D3QADHByb2R1Y3RBcml0eXNxAH4ADG86V590AAZlcXVhbHNzcQB+AAwt/HxtdAAIdXNlcm5hbWVzcQB+AAyluTvUdAAMYXNJbnN0YW5jZU9mc3EAfgAM+Tlim3QADHN5bmNocm9uaXplZHNxAH4ADFhsIal0AA0kaXNJbnN0YW5jZU9mc3EAfgAM8y0lc3QACGNhbkVxdWFsc3EAfgAMqgUaFnQADmNvcHkkZGVmYXVsdCQ0c3EAfgAMvOXPZXQADXByb2R1Y3RQcmVmaXhzcQB+AAyi6MXIdAAJbm90aWZ5QWxsc3EAfgAMH8pe1HQABmFtb3VudHNxAH4ADEn5RU50AAxpc0luc3RhbmNlT2ZzcQB+AAx8OOEodAAGPGluaXQ+c3EAfgAM88A5anQAAmlkc3EAfgAM80j6EHQAAj09c3EAfgAMBqdUL3QABWNsb25lc3EAfgAMxlCiiXQABiRpbml0JHNxAH4ADJelH7Z0AAhUcmFuc2ZlcnNxAH4ADA7+MOZ0AARVc2Vyc3EAfgAMHViLvXQADmNvcHkkZGVmYXVsdCQzc3EAfgAMcetpvHQABGNvcHlzcQB+AAxWbeVjdAAGc2VuZGVyc3EAfgAMhb8KdHQACHRvU3RyaW5nc3EAfgAMQnbKaXQAAiE9c3EAfgAM7ziif3QACGdldENsYXNzc3EAfgAMFh88/nQADmNvcHkkZGVmYXVsdCQxc3EAfgAMemNn/XQAAm5lc3EAfgAMfYCSSXQAAmVxc3EAfgAMRYKoD3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADMf+zz50AAIjI3NxAH4ADI2vA4l0AAhmaW5hbGl6ZXNxAH4ADA/a5+Z0AA5wcm9kdWN0RWxlbWVudHNxAH4ADMnrRIt0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABtjb20uY2FmZmVpbnVtLm1vbmV5YXBpLlVzZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Ae3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBjTAAJaW5oZXJpdGVkcQB+AGNMAAdwYXJlbnRzcQB+AGN4cQB+AIBzcQB+AHt1cQB+AF4AAAAAc3EAfgB7dXEAfgBeAAAAAHNxAH4Ae3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Af3QADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Af3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AmXNxAH4AjHEAfgCPc3EAfgCQc3EAfgCTdXEAfgCWAAAAA3NxAH4AmHQABGphdmFzcQB+AJh0AAJpb3EAfgCdc3EAfgCMdAAHUHJvZHVjdHEAfgCSc3EAfgCMdAAGRXF1YWxzcQB+AJJzcQB+AIx0AAZPYmplY3RzcQB+AJBzcQB+AJN1cQB+AJYAAAADc3EAfgCYcQB+AKNzcQB+AJh0AARsYW5ncQB+AJ1zcQB+AIx0AANBbnlxAH4AknNxAH4AYHEAfgBtdXEAfgBuAAAAAHNxAH4AcAB0AB9jb20uY2FmZmVpbnVtLm1vbmV5YXBpLlRyYW5zZmVydXEAfgBzAAAAAHEAfgB3dXEAfgB5AAAAAHNxAH4Ae3EAfgCBc3EAfgB7c3EAfgCDc3EAfgB7dXEAfgBeAAAAAHNxAH4Ae3VxAH4AXgAAAABzcQB+AHt1cQB+AIoAAAAGc3EAfgCMcQB+AI9zcQB+AJBzcQB+AJN1cQB+AJYAAAACc3EAfgCYcQB+AJtxAH4AnXNxAH4AjHEAfgCPc3EAfgCQc3EAfgCTdXEAfgCWAAAAA3NxAH4AmHEAfgCjc3EAfgCYdAACaW9xAH4AnXNxAH4AjHEAfgCncQB+AMRzcQB+AIx0AAZFcXVhbHNxAH4AxHNxAH4AjHEAfgCrc3EAfgCQc3EAfgCTdXEAfgCWAAAAA3NxAH4AmHEAfgCjc3EAfgCYcQB+ALFxAH4AnXNxAH4AjHEAfgCzcQB+AMR1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAA3NyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABZjb20uY2FmZmVpbnVtLm1vbmV5YXBpc3EAfgDbdAANY29tLmNhZmZlaW51bXNxAH4A23QAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXc3FJz51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABRL21udC9jL1VzZXJzL2NhZmZlaW51bS9EZXNrdG9wL3NjYWxhL21vbmV5LXRyYW5zZmVyLWFwaS90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU5u6+5naWjKCq3zkyNRgbdGMgW5E=
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/example/Hello.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwjLEYfgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAbc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwzjmjzXQABm5vdGlmeXNxAH4ADE+C1790AAR3YWl0c3EAfgAMh5NG63QADSRhc0luc3RhbmNlT2ZzcQB+AAzhuQyfdAAGZXF1YWxzc3EAfgAM48FmenQACEdyZWV0aW5nc3EAfgAMoIraQXQADGFzSW5zdGFuY2VPZnNxAH4ADCuT8850AA5leGVjdXRpb25TdGFydHNxAH4ADGuZ+vF0AAxzeW5jaHJvbml6ZWRzcQB+AAzF7VuudAANJGlzSW5zdGFuY2VPZnNxAH4ADPbzUtZ0AARtYWluc3EAfgAMozUZDHQACW5vdGlmeUFsbHNxAH4ADNH/h9V0AAxpc0luc3RhbmNlT2ZzcQB+AAwDYz9OdAACPT1zcQB+AAxSKIpQdAAFY2xvbmVzcQB+AAztXHYFdAAFSGVsbG9zcQB+AAw8P331dAAGJGluaXQkc3EAfgAMvZb4yHQACGdyZWV0aW5nc3EAfgAMZZbnFXQACHRvU3RyaW5nc3EAfgAMuYQM/3QABGFyZ3NzcQB+AAyyxCQCdAACIT1zcQB+AAzSgWZrdAAIZ2V0Q2xhc3NzcQB+AAx92kbTdAACbmVzcQB+AAy41tIPdAACZXFzcQB+AAyMwfYzdAALZGVsYXllZEluaXRzcQB+AAxfYvCedAACIyNzcQB+AAxhKaybdAAIZmluYWxpemVzcQB+AAwCq/Y0dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBNeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAANZXhhbXBsZS5IZWxsb3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3QAEHNjYWxhLmRlcHJlY2F0ZWRzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AZ3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBNTAAJaW5oZXJpdGVkcQB+AE1MAAdwYXJlbnRzcQB+AE14cQB+AGxzcQB+AGd1cQB+AEgAAAAAc3EAfgBndXEAfgBIAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBOcQB+AFd1cQB+AFgAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgB2eHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADUwABXZhbHVlcQB+AA14cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGt0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Aa3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AkHNxAH4AWgBxAH4AIXVxAH4AXQAAAABzcQB+AIN0AARVbml0cQB+AIl1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgB2eHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBgdAAFUGxhaW5xAH4AM3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AhFsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4Aa3NxAH4Ag3QABUFycmF5cQB+AIl1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4Ag3QABlN0cmluZ3NxAH4Ah3NxAH4AinVxAH4AjQAAAANzcQB+AI90AARqYXZhc3EAfgCPdAAEbGFuZ3EAfgCUc3EAfgBndXEAfgCrAAAABXNxAH4Ag3QAA0FwcHEAfgCJc3EAfgCDdAALRGVsYXllZEluaXRxAH4AiXNxAH4Ag3QACEdyZWV0aW5nc3EAfgCHc3EAfgCKdXEAfgCNAAAAAnNxAH4Aj3QAB2V4YW1wbGVxAH4AlHNxAH4Ag3QABk9iamVjdHEAfgCvc3EAfgCDdAADQW55cQB+AIlzcQB+AEpxAH4AV3VxAH4AWAAAAABzcQB+AFoBdAAQZXhhbXBsZS5HcmVldGluZ3VxAH4AXQAAAAB+cQB+AF90AAVUcmFpdHVxAH4AYwAAAABzcQB+AGdxAH4AbXNxAH4AZ3NxAH4Ab3NxAH4AZ3VxAH4ASAAAAABzcQB+AGd1cQB+AEgAAAAAc3EAfgBndXEAfgCrAAAAAnNxAH4Ag3EAfgDEc3EAfgCHc3EAfgCKdXEAfgCNAAAAA3NxAH4Aj3EAfgCzc3EAfgCPcQB+ALVxAH4AlHNxAH4Ag3EAfgDGc3EAfgCHc3EAfgCKdXEAfgCNAAAAAnNxAH4Aj3EAfgCScQB+AJR1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAdleGFtcGxlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFdzcUnPnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFEvbW50L2MvVXNlcnMvY2FmZmVpbnVtL0Rlc2t0b3Avc2NhbGEvbW9uZXktdHJhbnNmZXItYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQb0KD0I5XQ3cWDF9mJ2bySZg5mxg==
+external apis:
+0 items
+source infos:
+3 items
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/Main.scala -> 
+AAAAAAAAAAA=
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/com/caffeinum/moneyapi/User.scala -> 
+AAAAAAAAAAA=
+/mnt/c/Users/caffeinum/Desktop/scala/money-transfer-api/src/main/scala/example/Hello.scala -> 
+AAAAAAAAAAA=
+compilations:
+5 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXc2871F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9tbnQvYy9Vc2Vycy9jYWZmZWludW0vRGVza3RvcC9zY2FsYS9tb25leS10cmFuc2Zlci1hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXc3FJz51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9tbnQvYy9Vc2Vycy9jYWZmZWludW0vRGVza3RvcC9zY2FsYS9tb25leS10cmFuc2Zlci1hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXc3HLt51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9tbnQvYy9Vc2Vycy9jYWZmZWludW0vRGVza3RvcC9zY2FsYS9tb25leS10cmFuc2Zlci1hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXc3J7nV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9tbnQvYy9Vc2Vycy9jYWZmZWludW0vRGVza3RvcC9zY2FsYS9tb25leS10cmFuc2Zlci1hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXc3Nykh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUS9tbnQvYy9Vc2Vycy9jYWZmZWludW0vRGVza3RvcC9zY2FsYS9tb25leS10cmFuc2Zlci1hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
