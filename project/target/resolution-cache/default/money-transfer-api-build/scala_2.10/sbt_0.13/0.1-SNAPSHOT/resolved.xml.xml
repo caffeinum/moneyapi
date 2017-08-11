@@ -4,7 +4,7 @@
 		module="money-transfer-api-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20170810200117"
+		publication="20170811141422"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>
