@@ -27,8 +27,6 @@
 [0m[[0mdebug[0m] [0m	/home/caffeinum/.ivy2/cache/com.twitter/util-lint_2.12/jars/util-lint_2.12-6.45.0.jar[0m
 [0m[[0mdebug[0m] [0m	/home/caffeinum/.ivy2/cache/com.github.ben-manes.caffeine/caffeine/jars/caffeine-2.3.4.jar[0m
 [0m[[0mdebug[0m] [0m	/home/caffeinum/.ivy2/cache/com.google.code.findbugs/jsr305/jars/jsr305-2.0.1.jar[0m
-[0m[[0mdebug[0m] [0m	/home/caffeinum/.ivy2/cache/com.fasterxml.jackson.core/jackson-core/bundles/jackson-core-2.8.4.jar[0m
-[0m[[0mdebug[0m] [0m	/home/caffeinum/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/bundles/jackson-databind-2.8.4.jar[0m
 [0m[[0mdebug[0m] [0m	/home/caffeinum/.ivy2/cache/com.fasterxml.jackson.module/jackson-module-scala_2.12/bundles/jackson-module-scala_2.12-2.8.4.jar[0m
 [0m[[0mdebug[0m] [0m	/home/caffeinum/.ivy2/cache/com.fasterxml.jackson.core/jackson-annotations/bundles/jackson-annotations-2.8.4.jar[0m
 [0m[[0mdebug[0m] [0m	/home/caffeinum/.ivy2/cache/com.fasterxml.jackson.module/jackson-module-paranamer/bundles/jackson-module-paranamer-2.8.4.jar[0m
@@ -57,6 +55,14 @@
 [0m[[0mdebug[0m] [0m	/home/caffeinum/.ivy2/cache/com.twitter/finagle-http2_2.12/jars/finagle-http2_2.12-6.45.0.jar[0m
 [0m[[0mdebug[0m] [0m	/home/caffeinum/.ivy2/cache/io.netty/netty-codec-http2/jars/netty-codec-http2-4.1.10.Final.jar[0m
 [0m[[0mdebug[0m] [0m	/home/caffeinum/.ivy2/cache/io.catbird/catbird-util_2.12/jars/catbird-util_2.12-0.15.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/caffeinum/.ivy2/cache/com.github.finagle/finch-circe_2.12/jars/finch-circe_2.12-0.16.0-M1.jar[0m
+[0m[[0mdebug[0m] [0m	/home/caffeinum/.ivy2/cache/io.circe/circe-core_2.12/jars/circe-core_2.12-0.8.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/caffeinum/.ivy2/cache/io.circe/circe-numbers_2.12/jars/circe-numbers_2.12-0.8.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/caffeinum/.ivy2/cache/io.circe/circe-jawn_2.12/jars/circe-jawn_2.12-0.8.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/caffeinum/.ivy2/cache/org.spire-math/jawn-parser_2.12/jars/jawn-parser_2.12-0.10.4.jar[0m
+[0m[[0mdebug[0m] [0m	/home/caffeinum/.ivy2/cache/io.circe/circe-jackson28_2.12/jars/circe-jackson28_2.12-0.8.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/caffeinum/.ivy2/cache/com.fasterxml.jackson.core/jackson-core/bundles/jackson-core-2.8.8.jar[0m
+[0m[[0mdebug[0m] [0m	/home/caffeinum/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/bundles/jackson-databind-2.8.8.jar[0m
 [0m[[0mdebug[0m] [0m	/home/caffeinum/.ivy2/cache/com.twitter/twitter-server_2.12/jars/twitter-server_2.12-1.30.0.jar[0m
 [0m[[0mdebug[0m] [0m	/home/caffeinum/.ivy2/cache/com.twitter/finagle-tunable_2.12/jars/finagle-tunable_2.12-6.45.0.jar[0m
 [0m[[0mdebug[0m] [0m	/home/caffeinum/.ivy2/cache/com.twitter/finagle-zipkin-core_2.12/jars/finagle-zipkin-core_2.12-6.45.0.jar[0m

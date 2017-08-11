@@ -1,0 +1,16 @@
+run
+update
+run
+exit
+run
+update
+run
+update
+run
+update
+run
+update
+run
+sbt run 
+run
+exit
