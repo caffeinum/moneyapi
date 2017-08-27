@@ -1,57 +1,94 @@
 package com.caffeinum.moneyapi
 
-import java.util.UUID
-
 import io.circe._
 import io.finch._
 
-//import io.circe.generic.auto._
 import io.finch.circe._
+import io.circe.generic.auto._
+
+import com.twitter.server.TwitterServer
 
 import com.twitter.finagle.param.Stats
-import com.twitter.server.TwitterServer
 import com.twitter.finagle.{Http, Service}
 import com.twitter.finagle.http.{Request, Response}
+
 import com.twitter.util.Await
+import com.twitter.util.FuturePool
+
 
 object Main extends TwitterServer {
+  val storage = new Storage()
 
   val ping: Endpoint[String] = get("ping") { Ok("Pong") }
 
-  val test: Endpoint[String] = get("test") {
-    Ok("user")
+  val expensive: Endpoint[BigInt] = get("expensive" :: int) { i: Int =>
+    FuturePool.unboundedPool {
+      Ok(  BigInt(i).pow(i)  )
+    }
   }
 
-  /*
-  // GRUD for /user/:id
-  val user: Endpoint[User] = get( "user" :: uuid ) {
-    (id: UUID) => Ok( User(id, "caffeinum") )
+  val test: Endpoint[User] = get("test") {
+    val admin = storage.createUser("admin")
+    val root = storage.createUser("root")
+
+    Ok(admin)
   }
 
-
-  // GET /user/:id/balance
-  val balance: Endpoint[Int] = get( "user" / uuid / "balance" ) {
-    id => Ok( User(id, "caffeinum").balance )
+  val createUser: Endpoint[User] = post("users" :: param("username")) {
+    (username: String) => {
+      val newUser = storage.createUser(username)
+      Ok( newUser )
+    }
   }
 
-  // PUT /user/:id/send
-  val sender: RequestReader[Int] = (param("sender")).as[Int]
-  val send: Endpoint[MoneyTransfer] = put( "user" / uuid / "send" / string ? sender ) {
-    (id: UUID, amount: Int, sender: UUID) =>
-    Ok( MoneyTransfer(new UUID(0L, 0L), amount, sender, id) )
+  val getUser: Endpoint[User] = get("users" :: long) {
+    (uid: Long) => Ok( storage.getUser(uid) )
   }
 
-  // POST /tranfer/?from&to&amount
-  case class MoneyTransferForm(val sender: UUID, val recipient: UUID, val amount: Int)
-  val transferInfo = (param("sender") :: param("recipient") :: param("amount")).as[MoneyTransferForm]
-  val transfer: Endpoint[MoneyTransfer] = post( "transfer" ? transferInfo ) {
-    (transfer: MoneyTransferForm) =>
-    Ok( MoneyTransfer(
-      new UUID(0L, 0L), transfer.amount, transfer.sender, transfer.recipient) )
+  val getBalance: Endpoint[Long] = get("users" :: long :: "balance") {
+    (uid: Long) => Ok( storage.getBalance(uid) )
   }
 
-*/
-  val service: Service[Request, Response] = ping.toServiceAs[Text.Plain]
+  val deposit: Endpoint[User] = put("users" :: long :: "deposit" :: param("amount").as[Long]) {
+    (uid: Long, amount: Long) => FuturePool.unboundedPool {
+      Ok( storage.deposit(uid, amount) )
+    }
+  }
+
+  val withdraw: Endpoint[User] = put("users" :: long :: "withdraw" :: param("amount").as[Long]) {
+    (uid: Long, amount: Long) => FuturePool.unboundedPool {
+      Ok( storage.withdraw(uid, amount) )
+    }
+  }
+
+  // /users/:uid/send/:to ?amount
+  val send: Endpoint[User] = put("users" :: long :: "send" :: long :: param("amount").as[Long]) {
+    (uid: Long, recipientID: Long, amount: Long) => FuturePool.unboundedPool {
+      Ok( storage.send(uid, recipientID, amount) )
+    }
+  }
+
+  val endpoints = (ping :+: test :+: expensive :+: createUser :+: getUser :+: getBalance :+: deposit :+: withdraw :+: send)
+
+  val enpointsHandled = endpoints.handle {
+    case e: NoSuchUserException =>
+      log.error("Storage error: No such user ", e)
+      NotFound( e )
+    case e: StorageException =>
+     log.error("Storage error ", e)
+     BadRequest( e )
+    case e: IllegalArgumentException =>
+     log.error("Bad request from client", e)
+     BadRequest(e)
+    case e: Exception =>
+     log.error("Unknown exception", e)
+     BadRequest(e)
+    case t: Throwable =>
+     log.error("Unexpected exception", t)
+     InternalServerError(new Exception(t.getCause))
+  }
+
+  val service: Service[Request, Response] = enpointsHandled.toServiceAs[Application.Json]
 
   def main(): Unit = {
     val server = Http.server

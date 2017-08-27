@@ -2,8 +2,6 @@ package com.caffeinum.moneyapi
 
 import java.util.UUID
 
-case class User(val id: UUID, val username: String) {
-  def balance = 100
-}
+case class User(val id: Long, val username: String, val balance: Long = 0)
 
-case class MoneyTransfer(val id: UUID, val amount: Int, val sender: UUID, val recipient: UUID)
+case class MoneyTransfer(val senderID: Long, val recipientID: Long, val amount: Long)
