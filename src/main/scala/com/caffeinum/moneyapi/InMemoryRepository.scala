@@ -71,7 +71,7 @@ class Storage {
     val updatedUser = user.copy(balance = user.balance + amount)
 
     if (updatedUser.balance < 0)
-      throw new NotEnoughFundsException("User " + user + " does not have enough funds")
+      throw new NotEnoughFundsException(user + " does not have enough funds")
     else {
       users.put(uid, updatedUser)
       updatedUser

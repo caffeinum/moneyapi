@@ -88,6 +88,10 @@ object Main extends TwitterServer {
      InternalServerError(new Exception(t.getCause))
   }
 
+  implicit val encodeExceptionCirce: Encoder[Exception] = Encoder.instance(e =>
+    Json.obj("message" -> Option(e.getMessage).fold(Json.Null)(Json.fromString))
+  )
+
   val service: Service[Request, Response] = enpointsHandled.toServiceAs[Application.Json]
 
   def main(): Unit = {
