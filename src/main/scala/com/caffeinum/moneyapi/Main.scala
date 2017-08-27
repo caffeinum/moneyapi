@@ -18,6 +18,10 @@ object Main extends TwitterServer {
 
   val ping: Endpoint[String] = get("ping") { Ok("Pong") }
 
+  val test: Endpoint[String] = get("test") {
+    Ok("user")
+  }
+
   /*
   // GRUD for /user/:id
   val user: Endpoint[User] = get( "user" :: uuid ) {
